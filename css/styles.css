@@ -38,6 +38,8 @@ footer {
   flex-direction: column;
   align-items: flex-start;
   gap: 10px;
+  width: 1900px;
+  margin: 0 auto;
   align-self: stretch;
   background: #292f3a;
 }
@@ -97,6 +99,7 @@ footer {
   width: 136px;
   height: 20px;
   flex-shrink: 0;
+  margin-left: 140px;
 }
 
 .footer-list {
@@ -977,4 +980,133 @@ footer {
   font-weight: 500;
   line-height: 171%;
   padding-left: 24px;
+}
+
+.footer-list-contact-container {
+  width: 336px;
+  height: 165px;
+}
+
+.footer-list-contact-container h2 {
+  color: #fff;
+  font-family: Poppins;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+
+.footer-list-contact-container {
+  width: 336px;
+  height: 165px;
+}
+
+.footer-list-contact-container-content {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+  margin-top: 18px;
+}
+
+.footer-list-contact-container-content h1 {
+  width: 336px;
+  color: #fff;
+  font-family: Poppins;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 100%;
+  letter-spacing: 0.14px;
+  text-transform: capitalize;
+  opacity: 0.5;
+}
+
+.footer-list-contact-container-content p {
+  width: 336px;
+  color: #fff;
+  font-family: Poppins;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 100%;
+  letter-spacing: 0.14px;
+  text-transform: uppercase;
+}
+
+.footer-list-company-container {
+  width: 92px;
+  height: 195px;
+}
+
+.footer-list-company-container h1 {
+  color: #fff;
+  font-family: Poppins;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+
+.footer-list-company-container p {
+  color: #fff;
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  margin-top: 24px;
+}
+
+.footer-list-connect-container {
+  width: 192px;
+  height: 117px;
+}
+
+.footer-list-connect-container h1 {
+  color: #fff;
+  font-family: Poppins;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+
+.footer-list-connect-container p {
+  color: #fff;
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  margin-top: 24px;
+}
+
+.footer-bottom-right {
+  width: 400px;
+  height: 26px;
+  display: flex;
+}
+
+.footer-bottom-right p {
+  width: 151px;
+  height: 26px;
+  flex-shrink: 0;
+  color: #fff;
+  font-family: Poppins;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.footer-bottom h1 {
+  width: 308px;
+  height: 26px;
+  color: #fff;
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
 }/*# sourceMappingURL=styles.css.map */
